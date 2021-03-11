@@ -1,0 +1,12 @@
+# NodeJS files
+node_modules
+
+# WebStorm project files
+.idea
+
+# built project files
+output
+
+# minified js and css files
+**/*.min.js
+**/*.min.css
